@@ -743,7 +743,7 @@ admin_menu:
         cout << "\n\n\t\t(2). :=>  DEPOSIT BOOKS";
         cout << "\n\n\t\t(3). :=>  SEARCH BOOK";
         cout << "\n\n\t\t(4). :=>  SEARCH STUDENT";
-        cout << "\n\n\t\t(5). :=>  BACK TO MAIN MENU";
+        cout << "\n\n\t\t(5). :=>  BACK TO MAIN MENU"; 
         cout << "\n\nENTER YOUR CHOICE :=>";
         cin >> c2;
         switch (c2)
